@@ -1,0 +1,21 @@
+{
+  "name": "startup-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-jsonschema": "^1.1.0",
+    "mongo-express": "^0.30.48",
+    "mongodb": "^2.1.16",
+    "nodemailer": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-plugin-node": "^1.0.0"
+  }
+}
